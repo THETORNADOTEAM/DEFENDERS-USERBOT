@@ -27,6 +27,6 @@ except PhoneNumberInvalidError:
 for module_name in ALL_MODULES:
     imported_module = import_module("userbot.modules." + module_name)
 
-LOGS.info("You are running WeebProject Userbot")
+LOGS.info("You are running Defendes Userbot")
 
 bot.run_until_disconnected()
