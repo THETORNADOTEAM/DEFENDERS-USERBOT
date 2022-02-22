@@ -1,6 +1,6 @@
 {
-  "name": "WeebProject UserBot",
-  "description": "[WeebProject] A modular Telegram userbot running on Python 3.8",
+  "name": "Defenders UserBot",
+  "description": "[DEFENDERS-USERBOT] A modular Telegram userbot running on Python 3.8",
   "keywords": [
     "telegram",
     "userbot",
@@ -8,7 +8,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/BianSepang/WeebProject",
+  "repository": "https://github.com/THETORNADOTEAM/DEFENDERS-USERBOT",
   "website": "https://telegra.ph/How-to-host-a-Telegram-Userbot-11-02",
   "stack": "container",
   "env": {
@@ -44,7 +44,7 @@
     },
     "UPSTREAM_REPO_URL": {
       "description": "In case you maintain a fork, add your repo URL here.",
-      "value": "https://github.com/BianSepang/WeebProject",
+      "value": "https://github.com/THETORNADOTEAM/DEFENDERS-USERBOT",
       "required": false
     },
     "COUNTRY": {
@@ -62,7 +62,7 @@
     },
     "BOTLOG": {
       "description": "Incase you want to turn off logging, put this to false",
-      "value": "False"
+      "value": "True"
     },
     "BOTLOG_CHATID": {
       "description": "ChatID of the Log group. Set it to '0' if BOTLOG = False and/or if LOGSPAMMER = False.",
@@ -156,7 +156,7 @@
     },
     "TERM_ALIAS": {
       "description": "Display user for .term command",
-      "value": "WeebProject",
+      "value": "DefendersUserbot",
       "required": false
     }
   },
