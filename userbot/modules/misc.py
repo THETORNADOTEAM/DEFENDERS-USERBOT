@@ -81,7 +81,6 @@ async def reedme(e):
     await e.edit(
         "Here's something for you to read:\n"
         "\n[WeebProject's README.md file](https://github.com/BianSepang/WeebProject/blob/master/README.md)
-
     )
 
 
