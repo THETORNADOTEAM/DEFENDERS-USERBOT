@@ -28,9 +28,10 @@ from userbot.modules.sql_helper.pm_permit_sql import get_approved
 DEF_UNAPPROVED_MSG = (
     "I haven't approved you to PM yet.\n"
     "Wait for me to approve your PM.\n"
+    "🔱रक्षक🔱-धर्मो रक्षति रक्षितः ||🚩.\n"
     "Until then, don't spam my PM or you'll get blocked and reported as spam...\n"
     "CAPICHE?\n\n"
-    "-Userbot"
+    "Defenders-Userbot"
 )
 # =================================================================
 
