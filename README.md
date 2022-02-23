@@ -22,7 +22,7 @@ __Repository create by [TONY-CHETANYA](TONY_LOGIC_EXPERT)__
 
 ### Deploy to Heroku
 
-[![Deploy](https://telegra.ph/file/0bf98050856e152cc8459.jpg)](https://heroku.com/deploy?template=https://github.com/THETORNADOTEAM/DEFENDERS-USERBOT)
+[![Deploy](https://telegra.ph/file/e7a1f82cf593d2a6d79e8.jpg)](https://heroku.com/deploy?template=https://github.com/THETORNADOTEAM/DEFENDERS-USERBOT)
 
 ### String Session 🖇
 `
