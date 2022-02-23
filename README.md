@@ -8,7 +8,7 @@
     
 
 
-![DEFENDERS USERBOT](https://telegra.ph/file/3e5a4478f5e213c1d1dea.jpg)
+![DEFENDERS USERBOT](https://telegra.ph/file/1ee1b34e89f8a4677aeac.jpg)
 
 ### Group Support 💖💖
 `
