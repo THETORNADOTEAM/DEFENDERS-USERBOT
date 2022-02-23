@@ -80,7 +80,7 @@ async def killdabot(event):
 async def reedme(e):
     await e.edit(
         "Here's something for you to read:\n"
-        "\n[WeebProject's README.md file](https://github.com/BianSepang/WeebProject/blob/master/README.md)
+        "\n[WeebProject's README.md file](https://github.com/THETORNADOTEAM/DEFENDERS-USERBOT/blob/master/README.md)
     )
 
 
@@ -102,7 +102,7 @@ async def repeat(rep):
 @register(outgoing=True, pattern=r"^\.repo$")
 async def repo_is_here(wannasee):
     """For .repo command, just returns the repo URL."""
-    await wannasee.edit("Here is my [Repo](https://github.com/BianSepang/WeebProject)")
+    await wannasee.edit("Here is my [Repo](https://github.com/THETORNADOTEAM/DEFENDERS-USERBOT)")
 
 
 @register(outgoing=True, pattern=r"^\.raw$")
