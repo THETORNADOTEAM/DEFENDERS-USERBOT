@@ -1,66 +1,49 @@
-# DEFENDERS Userbot
+# 🇮🇳DEFENDERS USERBOT 💝
+# SIMPLE AND NON HACKABLE USERBOT✅
+#MADE BY MAHADEV TORNADO NETWORK✌💖
+#OWNER : #DEFENDERS 👦 BOY
 
 <p align="center">
-    <a href="https://app.codacy.com/gh/BianSepang/WeebProject/dashboard"> <img src="https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=blue&logo=codacy&style=flat-square" alt="Codacy" /></a><br>
-    <a href="https://github.com/BianSepang/WeebProject/stargazers"> <img src="https://img.shields.io/github/stars/BianSepang/WeebProject?logo=github&style=flat-square" alt="Stars" /></a>
-    <a href="https://github.com/BianSepang/WeebProject/network/members"> <img src="https://img.shields.io/github/forks/BianSepang/WeebProject?logo=github&style=flat-square" alt="Forks" /></a>
-    <a href="https://github.com/BianSepang/WeebProject/watchers"> <img src="https://img.shields.io/github/watchers/BianSepang/WeebProject?logo=github&style=flat-square" alt="Watch" /></a><br>
-    <a href="https://github.com/BianSepang/WeebProject/graphs/contributors"> <img src="https://img.shields.io/github/contributors/BianSepang/WeebProject?color=blue&style=flat-square" alt="Contributors" /></a>
-    <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?label=telethon&logo=pypi&logoColor=white&style=flat-square" /></a>
-</p>
+  <a href="https://github.com/THETORNADOTEAM/DEFENDERS-USERBOT">
+    
 
-```
-#include <std/disclaimer.h>
-/*
-*    Your Telegram account may get banned.
-*    I am not responsible for any improper use of this bot
-*    This bot is intended for the purpose of having fun with memes,
-*    as well as efficiently managing groups.
-*    You ended up spamming groups, getting reported left and right,
-*    and you ended up in a Finale Battle with Telegram and at the end
-*    Telegram Team deleted your account?
-*    And after that, then you pointed your fingers at us
-*    for getting your acoount deleted?
-*    I will be rolling on the floor laughing at you.
-*/
-```
 
-A modular Telegram Userbot running on Python3 with sqlalchemy database.
+![DEFENDERS USERBOT](https://telegra.ph/file/3e5a4478f5e213c1d1dea.jpg)
 
-based on [ProjectBish](https://github.com/adekmaulana/ProjectBish) Userbot
+### Group Support 💖💖
+`
+Click the button below to join our support group`
+   <a href="https://t.me/DEFENDERS_CHAT"><img src="https://img.shields.io/badge/Grup%20Support%3F-ESPECTRAL-red?&style=flat-square?&logo=telegram" width=170px></a></p>
 
-## Deploy
-### "Bare hands", using Git and Python3 -- on (Linux, macOS, and Android [via Termux])
-1. Clone this repository on your local machine and `cd` (or `chdir`, anti bloat guy) to it
-2. Set up Python virtual environment named "venv" inside it (Requires `virtualenv` installed on the system)
-  - `virtualenv venv`
-  - Don't forget to activate the virtualenv: `. venv/bin/activate`
-3. Set up database for the userbot, search Google on how to set up a local database (PostgreSQL is recommended)
-4. Install the requirements: `pip3 install -r ./requirements.txt`
-5. Edit `sample_config.env` and save it as `config.env`
-  - Do not forget to fill in the `REQUIRED %%` values, or else the bot will not run
-6. Run the bot: `bash ./exec.sh`
-  - Protip: See what `bash ./exec.sh --help` tells you
+__Repository create by [TONY-CHETANYA](TONY_LOGIC_EXPERT)__
 
-### Docker
-1. Clone this repository on your local machine and `cd` (or `chdir`, anti bloat guy) to it
-2. Edit `sample_config.env` and save it as `config.env`
-  - Set `DATABASE_URL` to `postgresql://USERNAME:PASSWORD@db:5432/weebproject`
-  - You should set `USERNAME` and `PASSWORD` too in `docker-compose.yml`
-  - Do not forget to fill in the `REQUIRED %%` values, or else the bot will not run
-3. Run docker: `docker-compose up`
 
-##### ※ Those steps are probably possible to pull off on Windows but it's pretty much unknown (different file tree paradigm, directory conventions, PowerShell instead of BASH or ZSH) -- If you're on Windows, you'd be better off running this on WSL (or WSL2)
----
-## Credits
-* [Adek Maulana](https://github.com/adekmaulana) - ProjectBish
-* [Mr. Miss](https://github.com/keselekpermen69) - UserButt
-* [Move Angel](https://github.com/MoveAngel) - One4uBot
-* [Aidil Aryanto](https://github.com/aidilaryanto) - ProjectDils
-* [Alfianandaa](https://github.com/alfianandaa) - ProjectAlf
-* [GengKapak](https://github.com/GengKapak) - DCLXVI
 
-and [everyone](https://github.com/BianSepang/WeebProject/graphs/contributors) that makes this userbot awesome :D
 
-## License
-Licensed under [Raphielscape Public License](https://github.com/BianSepang/WeebProject/blob/master/LICENSE) - Version 1.d, February 2020
+### Deploy to Heroku
+
+[![Deploy](https://telegra.ph/file/0bf98050856e152cc8459.jpg)](https://heroku.com/deploy?template=https://github.com/THETORNADOTEAM/DEFENDERS-USERBOT)
+
+### String Session 🖇
+`
+Click the button next to create your strings`
+[![repl](https://telegra.ph/file/365f4ec857884b4bb75ab.jpg)](https://replit.com/@LEGACY2021NETWORK/LEGACY-LEAVERS-USERBOT)
+    
+------------------------------------------------
+## 𝚅𝙰𝚁𝙸𝙰𝙱𝙻𝙴𝚂 :
+
+- `APP_ID`  =  Get this value from my.telegram.org
+- `API_HASH`  =  Get this value from my.telegram.org
+- `STRING_SESSION`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
+- `LOGGER_ID`  =  Make A Channel And Get it's ID.
+- `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
+- `BOT_USERNAME`  =  Get the username of that Bot made from [@Botfather](https://t.me/botfather)
+------------
+
+................
+© Special credit
+....................
+
+
+•DEFENDERS NETWORKS!!!!
+.....................
