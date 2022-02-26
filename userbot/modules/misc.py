@@ -80,7 +80,7 @@ async def killdabot(event):
 async def reedme(e):
     await e.edit(
         "Here's something for you to read:\n"
-        "\n[WeebProject's README.md file](https://github.com/THETORNADOTEAM/DEFENDERS-USERBOT/blob/master/README.md)
+        "\n[DEFENDERS-USERBOT README.md file](https://github.com/THETORNADOTEAM/DEFENDERS-USERBOT/blob/master/README.md)"
     )
 
 
