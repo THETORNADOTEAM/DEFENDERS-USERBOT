@@ -91,8 +91,8 @@ async def amireallyalive(alive):
         f"⚙️ 𝗧𝗘𝗟𝗘𝗧𝗛𝗢𝗡 ➪ v{version.__version__}\n" 
         f"⚡️𝗠𝗬 𝗢𝗪𝗡𝗘𝗥⚡️➪{DEFAULTUSER}** \n" 
         f"**⚡️𝗥𝗘𝗣𝗢⚡️➪ [DefendersUb](https://github.com/THETORNADOTEAM/KAAL-BOT)** \n" 
-        f"**⚡️𝗖𝗛𝗔𝗡𝗡𝗘𝗟⚡️➪ [𝗝𝗢𝗜𝗡](https://t.me/ESPECTRAL_REVENGE_USERBOT)** \n" 
-        f"**⚡️𝗦𝗨𝗣𝗣𝗢𝗥𝗧⚡️➪ [𝗝𝗢𝗜𝗡](https://t.me/DEFENDERS_UB_UPDATES)** \n"
+        f"**⚡️𝗖𝗛𝗔𝗡𝗡𝗘𝗟⚡️➪ [𝗝𝗢𝗜𝗡](https://t.me/DEFENDERS_UB_UPDATES)** \n" 
+        f"**⚡️𝗦𝗨𝗣𝗣𝗢𝗥𝗧⚡️➪ [𝗝𝗢𝗜𝗡](https://t.me/DEFENDERS_CHAT)** \n"
         f"**👤User :** __{DEFAULTUSER}__"
         "▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n"
    )
